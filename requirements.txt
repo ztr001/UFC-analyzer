@@ -1,0 +1,4 @@
+streamlit
+anthropic
+firecrawl-py
+python-dotenv
